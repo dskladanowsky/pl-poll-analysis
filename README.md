@@ -1,4 +1,4 @@
-# Wikipedia Scraper for Polish Parliamentary Election Polls + Data Analysis
+# Analyzing Political Polls: Accuracy, Trends & Predictions
 
 ## Overview
 This project is a web scraper designed to extract opinion polling data from Wikipedia for the Polish parliamentary elections. The extracted data is cleaned, processed, and analyzed using Python.
